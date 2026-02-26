@@ -1,0 +1,12 @@
+{
+  "name": "lovable-infinity-admin",
+  "version": "1.0.0",
+  "description": "Lovable Infinity - Admin Panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
